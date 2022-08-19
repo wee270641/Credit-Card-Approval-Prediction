@@ -1,3 +1,3 @@
 # Credit-Card-Approval-Prediction
 
-The aim of this project is to predict credit card approval.
+Machine learning project: to predict credit card should be approved or not
